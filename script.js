@@ -1,5 +1,5 @@
 
-        const apiKey = config.apiKey; // <-- Replace with your OpenWeather API key
+        const apiKey = "d136835df695f60c43b759a01ab2f14a" // <-- Replace with your OpenWeather API key
 
         const weatherForm = document.getElementById('weatherForm');
         const cityInput = document.getElementById('cityInput');
